@@ -31,7 +31,7 @@ var quotes = [
   },
 
   {
-    quote: 'Your focus determins your reality.',
+    quote: 'Your focus determines your reality.',
     source: 'Qui-Gon Jinn',
     citation: 'Star Wars Episode I',
     year: 1999
