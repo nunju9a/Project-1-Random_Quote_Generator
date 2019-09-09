@@ -67,7 +67,7 @@ function getRandomQuote () {
 
  function randomRGB () {
    
-  return Math.floor(Math.random() *256);
+  return Math.floor(Math.random() *200);
  }
 
 
